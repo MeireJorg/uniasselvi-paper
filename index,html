@@ -9,4 +9,7 @@
         <a href="cadastro.php">Cadastro Funcionário</a>
         <br><br>
     </body>
+    <?php
+    
+    ?>
 </html>
